@@ -18,8 +18,4 @@ menu: main
 
 Contact me through,
 
-[Twitter](https://twitter.com/vigneshwar1998)
-
-[LinkedIn](https://www.linkedin.com/in/vigneshwarravichandran/)
-
-[Instagram]()
+[Twitter](https://twitter.com/vigneshwar1998)     [LinkedIn](https://www.linkedin.com/in/vigneshwarravichandran/)    [Instagram](https://www.instagram.com/vigneshwarravichandran/)    [Github](https://github.com/VigneshwarRavichandran)    [Facebook](https://www.facebook.com/vigneshwarravichandran1998)
