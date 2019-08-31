@@ -14,4 +14,4 @@ menu: main
 >
 > I believe in the concept that a _good logic builder_ can easily turn into a _great_ _programmer._ I have worked a lot on **_Python_** and its framework. I still can't forget the days which made me feel like _programming_ was not my cup of tea. It took some time to overcome than illusion. 
 
-<p align="center">hi</p>
+<p align="center"><i style="font-size:24px" class="fa">&#xf099;</i></p>
