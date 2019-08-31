@@ -1,9 +1,11 @@
 ---
-date: 2019-08-09 18:30:00 +0000
+date: 2019-08-09T18:30:00.000+00:00
 title: Slack Bot using Python Flask
 image: "/images/slack.png"
 tags:
 - Slack
+- Bot
+- Python
 - Flask
 
 ---
