@@ -1,6 +1,6 @@
-title: "My Blog\n"
+title: "My Blog\n \n"
 baseline: "Developer"
-description: "Hey! this is Vigneshwar Ravichandran. Welcome to my Blogspot!"
+description: "Hey! this is Vigneshwar Ravichandran. Welcome to my Blogspot! \n \n"
 baseurl: "/"
 canonicalurl: true
 theme: "hyde"
