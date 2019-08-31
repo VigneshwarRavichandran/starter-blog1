@@ -9,6 +9,8 @@ tags:
 ---
 Usually bots perform two operation one to receive the user messages and the other is to provide response to the obtained messages. Dynamically changing response needs backend works to done.
 
+<!-- excerpt -->
+
 **Receiving** **Messages :**
 
 For receiving messages go to [Event Subscription](https://api.slack.com/apps/AM8F6C48G/event-subscriptions?) page and enable it and provide your ngrok redirected link.
