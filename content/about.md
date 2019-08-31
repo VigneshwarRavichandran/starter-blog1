@@ -16,4 +16,10 @@ menu: main
 >
 > I believe in the concept that a _good logic builder_ can easily turn into a _great_ _programmer._ I have worked a lot on **_Python_** and its framework. I still can't forget the days which made me feel like _programming_ was not my cup of tea. It took some time to overcome than illusion. 
 
-![](/images/twitter.png)![](/images/twitter.png)<p align="center"> <img width="250" height="250" src="[https://photos.google.com/photo/AF1QipNpiWOTOeNEwcT1DOmsFTt2kaTVLXuRwqkJTFGA](https://photos.google.com/photo/AF1QipNpiWOTOeNEwcT1DOmsFTt2kaTVLXuRwqkJTFGA "https://photos.google.com/photo/AF1QipNpiWOTOeNEwcT1DOmsFTt2kaTVLXuRwqkJTFGA")"> </p>
+Contact me through,
+
+[Twitter](https://twitter.com/vigneshwar1998)
+
+[LinkedIn](https://www.linkedin.com/in/vigneshwarravichandran/)
+
+[Instagram]()
