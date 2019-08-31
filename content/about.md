@@ -14,4 +14,4 @@ menu: main
 >
 > I believe in the concept that a _good logic builder_ can easily turn into a _great_ _programmer._ I have worked a lot on **_Python_** and its framework. I still can't forget the days which made me feel like _programming_ was not my cup of tea. It took some time to overcome than illusion. 
 
-<p align="center"><a href="[https://twitter.com/vigneshwar1998](https://twitter.com/vigneshwar1998 "https://twitter.com/vigneshwar1998")"><i class="fa fa-twitter" style="font-size:24px"></i></a></p>
+<p align="center">hi</p>
