@@ -12,7 +12,7 @@ menu: main
 >
 > Unlike many, I had some type of job description for my career. I don't believe in the quantity of employees in the company, always believe the quality in them.
 >
-> I need to thank someone - [Naveen Honest Raj](https://naveenhonestraj.in/). He is the one who moulded me into a good script. The **developer** whom I admire the most.
+> I need to thank someone - [Naveen Honest Raj](https://naveenhonestraj.in/). He is the one who moulded me into a good script. The **Developer** whom I admire the most.
 >
 > I believe in the concept that a good logic builder can easily turn into a great programmer_._ I have worked a lot on **Python** and its framework. I still can't forget the days which made me feel like programming was not my cup of tea. It took some time to overcome than illusion.
 
