@@ -6,7 +6,6 @@ tags:
 - Slack
 - Bot
 - Python
-- Flask
 
 ---
 Usually bots perform two operation one to receive the user messages and the other is to provide response to the obtained messages. Dynamically changing response needs backend works to done.
