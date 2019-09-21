@@ -16,4 +16,4 @@ menu: main
 >
 > I believe in the concept that a good logic builder can easily turn into a great programmer_._ I have worked a lot on **Python** and its framework. I still can't forget the days which made me feel like programming was not my cup of tea. It took some time to overcome than illusion.
 
-You can find me on [Twitter](https://twitter.com/vigneshwar1998), [GitHub](https://github.com/VigneshwarRavichandran), [Instagram](https://www.instagram.com/vigneshwarravichandran/) and [LinkedIn](https://www.linkedin.com/in/vigneshwarravichandran/), or reach me via [email](mailto:vigneshwarravichandran@gmail.com).
+Youcan find me on [Twitter](https://twitter.com/vigneshwar1998), [GitHub](https://github.com/VigneshwarRavichandran), [Instagram](https://www.instagram.com/vigneshwarravichandran/) and [LinkedIn](https://www.linkedin.com/in/vigneshwarravichandran/), or reach me via [email](mailto:vigneshwarravichandran@gmail.com).
