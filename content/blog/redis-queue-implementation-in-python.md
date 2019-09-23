@@ -1,5 +1,5 @@
 ---
-date: 2019-08-31 16:02:01 +0000
+date: 2019-08-31T16:02:01.000+00:00
 title: Redis Queue implementation in Python
 image: "/images/rq.png"
 tags:
@@ -17,7 +17,7 @@ After redis installation, run the redis server with the command,
 
 ![](/images/redis-server.png)
 
-Use the below code in the mentioned files,
+Use the below code in the mentioned files
 
 app.py
 
