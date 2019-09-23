@@ -17,7 +17,7 @@ After redis installation, run the redis server with the command,
 
 ![](/images/redis-server.png)
 
-Use the below code in the mentioned files
+Use the below code in the mentioned files,
 
 app.py
 
