@@ -26,7 +26,7 @@ One of the most popular library for JSON web token generation is `PyJWT`
 
 > $ pip install pyjwt
 
-# Creating a JWT in Python:
+### Creating a JWT in Python:
 
 Here the user details are encoded for obtaining the JSON Web Token. Always try to store the encrypted password not the original one for security purpose. Here sha256 library is used for password encryption and decryption. The token which is generated is usually not in UTF-8 format. So .decode(‘utf-8) is used for the conversion.
 
