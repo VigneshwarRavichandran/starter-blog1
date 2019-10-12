@@ -35,6 +35,13 @@ One of the most popular library for JSON web token generation is `PyJWT`
 
 Here the user details are encoded for obtaining the JSON Web Token. Always try to store the encrypted password not the original one for security purpose. Here **sha256** library is used for password encryption and decryption. The token which is generated is usually not in **UTF-8** format. So .decode(‘utf-8) is used for the conversion.
 
+    if sha256_crypt.verify(password, hashed_password):
+      access_token = jwt.encode({'username' : username, 'hashed_password' : hashed_password}, 'secret', algorithm='HS256')
+      token = access_token.decode('utf-8')
+      return jsonify({
+        'auth_token' : token
+        })
+
 Decoding of the JSON Web token provides the user details as previously the user details were encoded to make the token some sense.
 
 For any queries ping me at [Twitter](https://twitter.com/vigneshwar1998).
