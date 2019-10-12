@@ -17,5 +17,6 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/blog/jwt-authentication-in-python.md
 - content/blog/redis-queue-implementation-in-python.md
 - content/blog/slack-bot-using-python-flask.md
