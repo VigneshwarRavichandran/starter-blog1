@@ -24,7 +24,7 @@ We must pass the token as part of the `Authorization` header, like – `JWT <tok
 
 One of the most popular library for JSON web token generation is `PyJWT`
 
-    $ pip install pyjwt
+> $ pip install pyjwt
 
 # Creating a JWT in Python:
 
@@ -33,3 +33,5 @@ Here the user details are encoded for obtaining the JSON Web Token. Always try t
 Decoding of the JSON Web token provides the user details as previously the user details were encoded to make the token some sense.
 
 For any queries ping me at [Twitter](https://twitter.com/vigneshwar1998).
+
+    https://gist.github.com/VigneshwarRavichandran/fc69633e03c0c6a56cdbcafad2deb091
