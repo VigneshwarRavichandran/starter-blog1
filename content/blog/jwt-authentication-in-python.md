@@ -44,4 +44,9 @@ Here the user details are encoded for obtaining the JSON Web Token. Always try t
 
 Decoding of the JSON Web token provides the user details as previously the user details were encoded to make the token some sense.
 
+    token = request.headers['token']
+    access_token = token.encode('utf-8')
+    user_details = jwt.decode(access_token, 'secret')
+    return jsonify(user_details)
+
 For any queries ping me at [Twitter](https://twitter.com/vigneshwar1998).
