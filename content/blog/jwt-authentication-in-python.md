@@ -9,3 +9,5 @@ tags:
 
 ---
 [JSON Web Token](https://jwt.io/) (JWT) provide a means of transmitting information from the client to the server in a secured way.
+
+<!-- excerpt -->
