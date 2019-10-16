@@ -12,7 +12,7 @@ tags:
 
 <!-- excerpt -->
 
-Since there are 3 parts separated by a ., each section is created differently. We have the 3 parts which are:
+Since there are 3 parts separated by a ., each section is created differently. We have the 3 parts which are
 
 * header
 * payload
@@ -23,8 +23,6 @@ Since there are 3 parts separated by a ., each section is created differently. W
 #### Generation JSON Web Token:
 
 * An API endpoint that accepts `username` and `password` via JSON payload and returns `access_token` which is the JSON Web Token we can use.
-
-
 * We must pass the token as part of the `Authorization` header, like – `JWT <token>`.
 
 One of the most popular library for JSON web token generation is `PyJWT`
