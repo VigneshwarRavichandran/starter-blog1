@@ -12,7 +12,7 @@ tags:
 
 <!-- excerpt -->
 
-Since there are 3 parts separated by a ., each section is created differently. We have the 3 parts which are:
+Since there are 3 parts separated by a ., each section is created differently. We have the 3 parts which :
 
 * header
 * payload
