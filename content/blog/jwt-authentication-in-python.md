@@ -41,7 +41,7 @@ Here the user details are encoded for obtaining the JSON Web Token. Always try t
         'auth_token' : token
         })
 
-Decoding of the JSON Web token provides the user details as previously the user details were encoded to make the token some sense.
+Decoding of the JSON Web token provides the user details as previously the user details were encoded to make the token some senses.
 
     token = request.headers['token']
     access_token = token.encode('utf-8')
