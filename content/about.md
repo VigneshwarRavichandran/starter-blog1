@@ -1,6 +1,6 @@
 ---
 title: About
-date: 1998-12-02 18:30:00 +0000
+date: 1998-12-02T18:30:00.000+00:00
 menu: main
 
 ---
@@ -8,7 +8,7 @@ menu: main
 <img width="250" height="250" src="https://lh3.googleusercontent.com/DBsqhDXuV1vHZ0wOQsc_GW2iwX1VbUd-2G7uciUQRxIXfAxgpyruC0U0UPm_ZeowsIDtZQ65lcAt">
 </p>
 
-> I'm **Vigneshwar Ravichandran** an engineering student with lots of passion over developing especially **Back-end Developing.** Always love to explore new languages and frameworks. **Coding** was not something I learnt to do or was chosen out of the options I had, it was something I was comfortable doing. A small story line of mine '_Years ago Developing was my crush, now its my love and soon its gona become my life partner_ '.
+> I'm **Vigneshwar Ravichandran** an engineer with lots of passion over developing especially **Back-end Developing.** Always love to explore new languages and frameworks. **Coding** was not something I learnt to do or was chosen out of the options I had, it was something I was comfortable doing. A small story line of mine '_Years ago Developing was my crush, now its my love and soon its gona become my life partner_ '.
 >
 > Unlike many, I had some type of job description for my career. I don't believe in the quantity of employees in the company, always believe the quality in them.
 >
